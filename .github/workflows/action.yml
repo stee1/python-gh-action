@@ -35,4 +35,5 @@ jobs:
       run: |
         which python
         pip show twine
+        python -m twine
       
